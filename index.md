@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Minecraft PE FairyLands Server
 
-You can use the [editor on GitHub](https://github.com/MinuhaFire/MinuhaFire.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+IP: [fairylands.sytes.net](fairylands.sytes.net/) 
+Port: 19132
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Thể loại: Skyblock ( sẽ ra thêm nếu ủng hộ )
+Nạp thẻ: IB Facebook Owner
+Group Server: [https://www.facebook.com/groups/1375731039203190](https://www.facebook.com/groups/1375731039203190) 
 
 ```markdown
-Syntax highlighted code block
+Quà mỗi ngày
 
-# Header 1
-## Header 2
-### Header 3
+# Giảm VIP 50% đến hết 31/12/2017
+## Vote nhiều được rank PMem ( bay được )
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Lưu ý: Full staff. 1 tháng sẽ được lọc staff nên sẽ có bài viết tuyển. Không chấp nhận hình thức ib hay đăng lên group server. Không xin OP.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MinuhaFire/MinuhaFire.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+FairyLands Page mantainced by Minh1999
